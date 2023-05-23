@@ -1,0 +1,63 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="227" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="30">
+            <item index="0" class="java.lang.String" itemvalue="protobuf" />
+            <item index="1" class="java.lang.String" itemvalue="app-conf" />
+            <item index="2" class="java.lang.String" itemvalue="joblib" />
+            <item index="3" class="java.lang.String" itemvalue="nltk" />
+            <item index="4" class="java.lang.String" itemvalue="setuptools" />
+            <item index="5" class="java.lang.String" itemvalue="requests" />
+            <item index="6" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="7" class="java.lang.String" itemvalue="pyasn1-modules" />
+            <item index="8" class="java.lang.String" itemvalue="structlog" />
+            <item index="9" class="java.lang.String" itemvalue="pip" />
+            <item index="10" class="java.lang.String" itemvalue="pkg_resources" />
+            <item index="11" class="java.lang.String" itemvalue="zipp" />
+            <item index="12" class="java.lang.String" itemvalue="certifi" />
+            <item index="13" class="java.lang.String" itemvalue="lxml" />
+            <item index="14" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="15" class="java.lang.String" itemvalue="tensorflow-cpu" />
+            <item index="16" class="java.lang.String" itemvalue="urllib3" />
+            <item index="17" class="java.lang.String" itemvalue="uritools" />
+            <item index="18" class="java.lang.String" itemvalue="Markdown" />
+            <item index="19" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="20" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="21" class="java.lang.String" itemvalue="spark-parser" />
+            <item index="22" class="java.lang.String" itemvalue="wheel" />
+            <item index="23" class="java.lang.String" itemvalue="xdis" />
+            <item index="24" class="java.lang.String" itemvalue="uncompyle6" />
+            <item index="25" class="java.lang.String" itemvalue="tqdm" />
+            <item index="26" class="java.lang.String" itemvalue="importlib-resources" />
+            <item index="27" class="java.lang.String" itemvalue="regex" />
+            <item index="28" class="java.lang.String" itemvalue="grpcio" />
+            <item index="29" class="java.lang.String" itemvalue="pyenchant" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E125" />
+          <option value="E127" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
