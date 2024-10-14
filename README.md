@@ -21,6 +21,9 @@ MalConv是一种卷积神经网络，其特点是读取原始文件的每一个�
 
 [论文](https://arxiv.org/abs/1710.09435)：Edward Raff et al. 2018. Malware Detection by Eating a Whole EXE
 
+使用pytorch而不是mindspore的版本在博客里：https://blog.csdn.net/qq_43199509/article/details/128203928
+移植到mindspore的踩坑记录也在博客里：https://blog.csdn.net/qq_43199509/article/details/130645381
+
 
 # 数据集
 使用的数据集黑样本来自kaggle Microsoft Malware Classification Challenge。
